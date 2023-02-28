@@ -1,0 +1,61 @@
+
+
+<div>
+    <input placeholder="Filtra por nombre" [(ngModel)]="platesName">
+    <select
+        name="materials"
+        required
+        [(ngModel)]="platesIngredient"
+    >
+        <option default value="">Material</option>
+        <option
+            *ngFor="let plate of platesEl"
+            [value]="plate"
+        >{{ plate }}</option>
+    </select>
+</div>
+
+<div
+    *ngIf="plates$"
+    class="card"
+>
+<app-ingredients
+    *ngFor="let platesEl of plates$ |async |filter:platesName:platesIngredient | pagination: pagePagination:search | paginate: { itemsPerPage: 4, currentPage: page }"
+    [plates]="platesEl"
+    (onRemove)="removePlatesFromList(platesEl._id)"
+>
+</app-ingredients>
+
+</div>
+
+<button
+    (click)='prevPage()'
+    >
+    Anteriores
+</button>
+&nbsp;
+<button
+    (click)='nextPage()'
+    [disabled]="(plate| pagination:pagePagination:search).length"
+    >
+    Siguientes
+</button>
+
+<input
+type="text"
+placeholder=" Buscar Platos"
+#txtSearch
+(keyup)="onSearchPlates( txtSearch.value)"
+/>
+
+<pagination-controls (pageChange)="page = $event" previousLabel="Anterior" nextLabel="Siguiente"></pagination-controls>
+
+
+
+
+<!-- Boton con biblioteca de angular, la polla. -->
+<!-- <pagination-controls (pageChange)="page = $event" previousLabel="Anterior" nextLabel="Siguiente"></pagination-controls> -->
+<!-- paginate: { itemsPerPage: 4, currentPage: page }" -->
+
+<!-- Para marcar un maximo en la pagiancion 2. -->
+<!-- [disabled]="(plate| pagination:pagePagination:search).length === 0" -->

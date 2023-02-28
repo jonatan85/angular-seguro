@@ -1,0 +1,31 @@
+<div
+    *ngIf="plates"
+      
+>
+        <div class="card__content">
+            <img  [src]="plates.img">
+            <h3
+            appUppercase 
+            class="card__title">{{plates.name}}</h3>
+            <p class="card__id">{{plates._id}}</p>
+            <div>
+                <button (click)="navigateToDetail()">
+                    {{plates.name}}
+                </button>
+                     
+            </div>
+        </div>
+        <div class="product__buttons">
+            <button
+                class="product__button product__button--remove"
+                (click)="removePlates()"
+            >Eliminar</button>
+            <button
+                (click)="editPlates()"
+                class="product__button"
+            >Editar</button>
+        </div>
+
+
+</div>
+

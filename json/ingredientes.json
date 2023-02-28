@@ -1,0 +1,77 @@
+[
+    {
+        "name": "China",
+        "img": "https://images.emojiterra.com/google/noto-emoji/v2.038/share/1f1e8-1f1f3.jpg",
+        "description": "La gastronomía China es conocida en todo el mundo por su calidad y diversidad.",
+        "id": "1"
+    },
+    {
+     "name": "Vegana",
+     "img": "https://i.pinimg.com/736x/9c/37/d2/9c37d2ef82ab02e8b65865230aeccfa0.jpg",
+     "description": "La gastronomía Vegana es conocida en todo el mundo por su calidad y diversidad.",
+     "id": "2"
+    },
+    {
+     "name": "Vegetariana",
+     "img": "https://png.pngtree.com/png-clipart/20220603/original/pngtree-vegetarian-food-vector-illustration-banner-png-image_7898263.png",
+     "description": "La gastronomía Vegetariana es conocida en todo el mundo por su calidad y diversidad.",
+     "id": "3"
+    },
+    {
+     "name": "Proteica",
+     "img": "https://media.istockphoto.com/id/1096850108/es/vector/nutrici%C3%B3n-de-keto-bandera-de-la-dieta-cetog%C3%A9nica-con-verduras-org%C3%A1nicas-nueces-y-otros.jpg?s=1024x1024&w=is&k=20&c=QvAPyV6dplhywi3DeUtefMPnsZ7N6DfjfTvUZAKYY1g=",
+     "description": "La gastronomía Proteica es conocida en todo el mundo por su calidad y diversidad.",
+     "id": "4"
+    },
+    {
+     "name": "Alemana",
+     "img": "https://banderalia.es/21-large_default/bandera-de-alemania.jpg",
+     "description": "La gastronomía Alemana es conocida en todo el mundo por su calidad y diversidad.",
+     "id": "5"
+    },
+    {
+     "name": "Japonesa",
+     "img": "https://s1.significados.com/foto/bandera-japon_sm.png?auto_optimize=low&width=655",
+     "description": "La gastronomía Japonesa es conocida en todo el mundo por su calidad y diversidad.",
+     "id": "6"
+    },
+    {
+     "name": "Mediterranea",
+     "img": "https://img.freepik.com/vector-premium/conceptos-palabras-dieta-mediterranea-bandera-verde-nutricion-moderna-saludable-infografias-iconos-sobre-fondo-color-tipografia-aislada-ilustracion-vectorial-texto-fuente-arialblack-utilizada_106317-21085.jpg",
+     "description": "La gastronomía Mediterranea es conocida en todo el mundo por su calidad y diversidad.",
+     "id": "7"
+    },
+    {
+     "name": "E.E.U.U",
+     "img": "https://previews.123rf.com/images/tribalium123/tribalium1231209/tribalium123120900111/15099257-ee-uu-bandera-de-los-estados-unidos-de-am%C3%A9rica.jpg",
+     "description": "La gastronomía E.E.U.U is good.",
+     "id": "8"
+    },
+    {
+     "name": "Italiana",
+     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Flag_of_the_Repubblica_Cisalpina.svg/180px-Flag_of_the_Repubblica_Cisalpina.svg.png",
+     "description": "La gastronomía Italiana es conocida en todo el mundo por su calidad y diversidad.",
+     "id": "9"
+    },
+    {
+     "name": "Francesa",
+     "img": "https://banderas.top/wp-content/uploads/2020/08/Bandera-de-Francia.png",
+     "description": "La gastronomía francesa es conocida en todo el mundo por su calidad y diversidad.",
+     "id": "10"
+    },
+    {
+     "name": "Española",
+     "img": "https://proyectoviajero.com/wp-content/uploads/2022/02/bandera_espana.webp",
+     "description": "La gastronomía Española es conocida en todo el mundo por su calidad y diversidad.",
+     "id": "11"
+    },
+    {
+     "name": "Vasca",
+     "img": "https://ae01.alicdn.com/kf/Hb218cc018fce4862bd40169ff22e73d2F/Bandera-vasca-Euskal-Herria-para-decoraci-n-90-150cm-env-o-gratis-xvggdg.jpg_Q90.jpg_.webp",
+     "description": "La gastronomía Vasca es conocida en todo el mundo por su calidad y diversidad.",
+     "id": "12"
+    }
+   ]
+
+  
+   

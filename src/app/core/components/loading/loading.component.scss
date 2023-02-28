@@ -1,0 +1,21 @@
+:host {
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+
+.loading {
+    border-radius: 50%;
+    width: 100vw;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    color: white;
+    height: 100vh;
+    background-color: grey;
+    opacity: 0.8;
+    &:hover {
+        transform: rotate(360deg);
+        transition: all 1s ease-in-out;
+    }
+}

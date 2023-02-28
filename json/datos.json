@@ -1,0 +1,111 @@
+[
+    {
+     "name": "paella",
+     "diets": "Mediterranea",
+     "img": "https://lacocinademasito.com/wp-content/uploads/2019/12/Paella-valenciana.jpg",
+     "price": "20",
+     "count": "1",
+     "description": "Plato de arroz seco, con carne, pescado, mariscos, legumbres, etc., característico de la región valenciana, en España",
+     "id": "1"
+    },
+    {
+     "name": "chipirones en Su Tinta",
+     "diets": "Vasca",
+     "img": "https://assets.tmecosys.com/image/upload/t_web600x528/img/recipe/ras/Assets/D922886E-19F5-43CE-9CEA-D5AB5A53409A/Derivates/C6A2423B-CF98-4248-B91C-67F5C48D682D.jpg",
+     "price": "25",
+     "count": "1",
+     "description": "son un plato elaborado con pequeños trozos de calamares (incluidos los tentáculos) cocinados en su propia tinta",
+     "id": "2"
+    },
+    {
+     "name": "ESPAGUETIS DE CALABACÍN CON PESTO ROJO",
+     "diets": "Vegetariana",
+     "img": "https://www.clara.es/medio/2019/03/05/recetas-vegetarianas-espaguetis-calabacin-con-pesto_85b073f7_700x1049.jpg",
+     "price": "17",
+     "count": "1",
+     "description": "The Football Is Good For Training And Recreational Purposes",
+     "id": "3"
+    },
+    {
+     "name": "ARROZ CON TOFU ENCEBOLLADO Y VERDURAS",
+     "diets": "Vegetariana",
+     "img": "https://www.clara.es/medio/2019/03/05/recetas-vegetarianas-arroz-tofu-verduras_236a0dad_700x1049.jpg",
+     "price": "7",
+     "count": "1",
+     "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+     "id": "4"
+    },
+    {
+     "name": "Wraps keto de carne picada, queso y bacon",
+     "diets": "Proteica",
+     "img": "https://i.dietdoctor.com/es/wp-content/uploads/2021/01/low_carb_bacon_cheeseburger_wraps_v.jpg?auto=compress%2Cformat&w=400&h=267&fit=c",
+     "price": "20",
+     "count": "1",
+     "description": "Estos jugosos wraps de carne picada con queso y bacon son rápidos de preparar, son económicos y están impregnados de los mejores sabores de las hamburguesas con queso.",
+     "id": "5"
+    },
+    {
+     "name": "Ensalada keto con espaguetis de calabacín, pesto y pollo",
+     "diets": "Proteica",
+     "img": "https://i.dietdoctor.com/es/wp-content/uploads/2021/01/low_carb_bacon_cheeseburger_wraps_v.jpg?auto=compress%2Cformat&w=400&h=267&fit=crop",
+     "price": "20",
+     "count": "1",
+     "description": " Un festín mediterráneo que combina los sabores clásicos de la albahaca, el tomate y el feta en una ensalada fresca y deliciosa.",
+     "id": "6"
+    },
+    {
+     "name": "Fideos de arroz con salteado de tofu y pimiento",
+     "diets": "Vegana" , 
+     "img": "https://i.blogs.es/3c3171/fideos-tofu/1366_2000.jpg",
+     "price": "63",
+     "count": "1",
+     "description": "Fideos de arroz con salteado de tofu y pimiento. Receta vegetariana sin gluten",
+     "id": "7"
+    },
+    {
+     "name": "Ensalada de quinoa, calabaza asada y granada",
+     "diets": "Vegana", 
+     "img": "https://i.blogs.es/0f37ec/ensalada-quinoa-calabaza/1366_2000.jpg",
+     "price": "47",
+     "count": "1",
+     "description": " Ensalada de quinoa, calabaza asada y granada. Receta vegana",
+     "id": "8"
+    },
+    {
+     "name": "RECETA DETOX DE ROLLITOS DE CALABACÍN",
+     "diets": "Detox", 
+     "img": "https://www.cuerpomente.com/medio/2023/01/04/rollitos-de-calabacin_75dcb2fb_1200x810.jpg",
+     "price": "34",
+     "count": "1",
+     "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural diets",
+     "id": "9"
+    },
+    {
+     "name": "SOPA DE WONTON",
+     "diets": "China", 
+     "img": "https://media.traveler.es/photos/6137808dbf63e581e01027be/master/w_1600,c_limit/76442.jpg",
+     "price": "8",
+     "count": "1",
+     "description": "Forman unas empanadillas redondas con una textura arrugada similar a las nubes",
+     "id": "10"
+    },
+    {
+     "name": "TORTILLA DE PATATAS",
+     "diets": "Española", 
+     "img": "https://imagenes.20minutos.es/files/og_thumbnail/uploads/imagenes/2020/02/02/tortilla-de-patatas.jpeg",
+     "price": "15",
+     "count": "1",
+     "description": "Clásico entre los clásicos en la gastronomía española. Las mejores tortillas de patatas son las que quedan ligeramente cremosas en el centro. Si no sabes cómo prepararla, yo te enseño",
+     "id": "11"
+    },
+    {
+     "name": "CurryWurst con patatas",
+     "diets": "Alemana", 
+     "img": "https://elmundoporrecorrer.com/wp-content/uploads/2019/03/Bratwurst_Nuernberg_alemania-salchichas-640x400.jpg",
+     "price": "10",
+     "count": "1",
+     "description": "Las Nürnberger Wurst son unas salchichas pequeñas y finitas del tamaño de un dedo. Se suelen servir en plato sobre una cama de SauerKraut (chucrut o col fermentada).",
+     "id": "12"
+    }
+]
+    

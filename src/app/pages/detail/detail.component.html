@@ -1,0 +1,28 @@
+<div class="card" *ngIf="plates; else productNotFound">
+    <p class="card__id">Id: {{ plates._id }}</p>
+    <img  [src]="plates.img">
+    <p class="card__p">Name: {{ plates.name }}</p>
+    <p class="card__p">Description: {{ plates.description }}</p>
+    <div class="card__ingredients">
+        <h3 class="card__ingredients_h3">Ingredientes: {{ plates.ingredients.name }}</h3>
+        <p class="card__ingredients_calories" *ngIf="plates.ingredients.calories">{{ plates.ingredients.calories }}</p>
+        <p class="card__ingredients_description" *ngIf="plates.ingredients.description">{{ plates.ingredients.description }}</p>
+    </div>
+</div>
+
+<div>
+    <button (click)="navigateToAtras()">
+        Atras
+    </button> 
+</div>
+
+
+
+
+
+
+
+<ng-template #productNotFound>
+    <p>No existe un producto con este id</p>
+</ng-template>
+
